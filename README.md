@@ -1,7 +1,7 @@
-# Data Institute 2024
+# Data Institute 2026
 For students of [The Data Institute](https://cjddatainstitute.org/), a collaboration between the Center for Journalism & Democracy and the Ida B. Wells Society for Investigative Reporting.
 
-We'll use this page to add all the materials used to teach the [2024 Data Institute](https://cjddatainstitute.org/2024/): slides, exercises, links, and homework. This is not an online course and won't have all the context or instruction to be a standalone class.
+We'll use this page to add all the materials used to teach the [2026 Data Institute](https://cjddatainstitute.org/20246/): slides, exercises, links, and homework. This is not an online course and won't have all the context or instruction to be a standalone class.
 
 Want to use our slides? Our teaching materials fall under the [Creative Commons license](https://creativecommons.org/licenses/by-nc-nd/3.0/us/).
 
@@ -46,31 +46,31 @@ Week 2:
 <hr/>
 
 ## Day 1
-Monday, July 8
+Monday, July 6
 
 ### Intro to Data Journalism
-<a href="https://propublica.s3.amazonaws.com/data-institute/intro-to-data-2023.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-data.jpg"></a>
-<a href="https://propublica.s3.amazonaws.com/projects/datainstitute/Intro-to-spreadsheets-2022.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-spreadsheets.jpg"></a>
+<a href="https://propublica.s3.amazonaws.com/data-institute/intro-to-data-2025.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-data.jpg"></a>
+<a href="https://propublica.s3.amazonaws.com/projects/datainstitute/Intro-to-spreadsheets-2025.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-spreadsheets.jpg"></a>
 <a href="https://propublica.s3.amazonaws.com/data-institute/finding-data-2023.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/finding-data.jpg"></a>
 <a href="https://propublica.s3.amazonaws.com/data-institute/loading-data%202023.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/loading-data.jpg"></a>
-<a href="https://propublica.s3.amazonaws.com/data-institute/best-practices-2023.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/best-practices.jpg"></a>
+<a href="https://propublica.s3.amazonaws.com/data-institute/best-practices-2025.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/best-practices.jpg"></a>
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/string-functions.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/string-functions.jpg"></a>
 
 ## Day 2
-Tuesday, July 9
+Tuesday, July 7
 
 <a href="https://propublica.s3.amazonaws.com/data-institute/evaluating-data-2023.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/evaluating-data.jpg"></a>
 <a href="https://propublica.s3.amazonaws.com/data-institute/open-refine-2023.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/open-refine.jpg"></a>
 <a href="https://propublica.s3.amazonaws.com/data-institute/analysis-one-var-23.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/one-var.jpg"></a>
 
 ## Day 3
-Wednesday, July 10
+Wednesday, July 8
 
 <a href="https://propublica.s3.amazonaws.com/data-institute/Data%20Institute%20Tabula.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/data-institute-tabula.png"></a>
 <a href="https://propublica.s3.amazonaws.com/data-institute/2024%20Analysis-grab-bag.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/data-analysis-grab-bag.png"></a>
 
 ## Day 4
-Thursday, July 11
+Thursday, July 9
 
 ### Visualizing Data, Charts and Maps
 
@@ -83,7 +83,7 @@ Intro to visualizing data
 - [More resources, reading and inspiration](https://docs.google.com/document/d/1MNRiSy0wQapCfu4PjSlvRobXIR4taB47gtr5v2g8uBo/edit?usp=sharing)
 
 ## Day 5
-Friday, July 12
+Friday, July 10
 
 ### Intro to Code
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/intro-to-code.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-code.jpg"></a>
@@ -130,7 +130,7 @@ Friday, July 12
 Copy and paste <a href="https://codepen.io/sisiwei/pen/KzLezJ?editors=1000">this code</a> and follow the instructions inside to format the page.
 
 ## Day 6
-Monday, July 15
+Monday, July 13
 
 ### Intro to Design
 
@@ -150,7 +150,7 @@ Monday, July 15
 
 
 ## Day 7
-Tuesday, July 16
+Tuesday, July 14
 
 ### Web Scraping + Fundamentals of Programming
 **In-Class Demos**
@@ -181,7 +181,7 @@ We'll do the first two together, and you'll do the rest on your own.
 </ul>
 
 ## Day 8
-Wednesday, July 17
+Wednesday, July 15
 
 ### Web Scraping, Continued
 
@@ -196,7 +196,7 @@ Wednesday, July 17
  		* If you would like to make a portfolio, [here's a handy guide from Lena](http://lenagroeger.com/makeawebsite/)! 
 
 ## Day 9
-Thursday, July 18
+Thursday, July 16
 
 ### Field trip day!
 
@@ -204,7 +204,7 @@ In the morning, we'll meet in our usual workspace at 9:30 a.m. for some open wor
 
 Today we'll get to visit with the Investigative Reporting Workshop on the campus of American University. 
 
-* **When:** Thursday, July 18, at 12:30pm
+* **When:** Thursday, July 16, at 12:30pm
 * **Where:** [American University, McKinley Building (School of Communication), Room 101](https://maps.app.goo.gl/4RkW7u8mB62da5ScA)
 
 At IRW, we'll have lunch and a chance to chat with Wesley Lowery, Aarushi Sahejpal, and some investigative fellows who are there for the summer. We'll wrap up by mid-afternoon and then you're free to explore DC on your own.
@@ -215,7 +215,7 @@ Please coordinate with each other on transit! The McKinley Building is on the co
 * Ride-shares and cabs will usually drop passengers at one of two spots on campus: the intersection of Nebraska Avenue and New Mexico (easiest), or entering campus from Massachusetts Ave and letting people out on Lydecker Road.
 
 ## Day 10
-Friday, July 19
+Friday, July 17
 
 ### Celebration and final show & tell
 
