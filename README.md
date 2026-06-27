@@ -61,7 +61,7 @@ Tuesday, July 7
 
 <a href="https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/evaluating-data-2026.pdf"><img width="300" src="https://raw.githubusercontent.com/cjddatainstitute/data-institute-2026/refs/heads/main/assets/evaluating-data.jpg"></a>
 <a href="https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/data-integrity-2026.pdf"><img width="300" src="https://raw.githubusercontent.com/cjddatainstitute/data-institute-2026/refs/heads/main/assets/data-integrity.jpg"></a>
-<a href="https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/open-refine-2026.pdf"><img width="300" src="https://raw.githubusercontent.com/cjddatainstitute/data-institute-2026/refs/heads/main/assets/open-refine.jpg"></a>
+<a href="https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/openrefine-2026.pdf"><img width="300" src="https://raw.githubusercontent.com/cjddatainstitute/data-institute-2026/refs/heads/main/assets/open-refine.jpg"></a>
 <a href="https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/analysis-one-var-2026.pdf"><img width="300" src="https://raw.githubusercontent.com/cjddatainstitute/data-institute-2026/refs/heads/main/assets/one-var.jpg"></a>
 
 ## Day 3
