@@ -49,25 +49,27 @@ Week 2:
 Monday, July 6
 
 ### Intro to Data Journalism
-<a href="https://propublica.s3.amazonaws.com/data-institute/intro-to-data-2025.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-data.jpg"></a>
-<a href="https://propublica.s3.amazonaws.com/projects/datainstitute/Intro-to-spreadsheets-2025.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-spreadsheets.jpg"></a>
-<a href="https://propublica.s3.amazonaws.com/data-institute/finding-data-2023.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/finding-data.jpg"></a>
-<a href="https://propublica.s3.amazonaws.com/data-institute/loading-data%202023.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/loading-data.jpg"></a>
-<a href="https://propublica.s3.amazonaws.com/data-institute/best-practices-2025.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/best-practices.jpg"></a>
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/string-functions.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/string-functions.jpg"></a>
+<a href="https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/intro-to-data-journalism.pdf"><img width="300" src="https://raw.githubusercontent.com/cjddatainstitute/data-institute-2026/refs/heads/main/assets/intro-to-data.jpg"></a>
+<a href="https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/intro-to-spreadsheets-2026.pdf"><img width="300" src="https://raw.githubusercontent.com/cjddatainstitute/data-institute-2026/refs/heads/main/assets/intro-to-spreadsheets.jpg"></a>
+<a href="https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/finding-data-2026.pdf"><img width="300" src="https://raw.githubusercontent.com/cjddatainstitute/data-institute-2026/refs/heads/main/assets/finding-data.jpg"></a>
+<a href="https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/loading-data-2026.pdf"><img width="300" src="https://raw.githubusercontent.com/cjddatainstitute/data-institute-2026/refs/heads/main/assets/loading-data.jpg"></a>
+<a href="https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/best-practices-2026.pdf"><img width="300" src="https://raw.githubusercontent.com/cjddatainstitute/data-institute-2026/refs/heads/main/assets/best-practices.jpg"></a>
+<a href="https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/string-functions-2026.pdf"><img width="300" src="https://raw.githubusercontent.com/cjddatainstitute/data-institute-2026/refs/heads/main/assets/string-functions.jpg"></a>
 
 ## Day 2
 Tuesday, July 7
 
-<a href="https://propublica.s3.amazonaws.com/data-institute/evaluating-data-2023.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/evaluating-data.jpg"></a>
-<a href="https://propublica.s3.amazonaws.com/data-institute/open-refine-2023.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/open-refine.jpg"></a>
-<a href="https://propublica.s3.amazonaws.com/data-institute/analysis-one-var-23.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/one-var.jpg"></a>
+<a href="https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/evaluating-data-2026.pdf"><img width="300" src="https://raw.githubusercontent.com/cjddatainstitute/data-institute-2026/refs/heads/main/assets/evaluating-data.jpg"></a>
+<a href="https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/data-integrity-2026.pdf"><img width="300" src="https://raw.githubusercontent.com/cjddatainstitute/data-institute-2026/refs/heads/main/assets/data-integrity.jpg"></a>
+<a href="https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/open-refine-2026.pdf"><img width="300" src="https://raw.githubusercontent.com/cjddatainstitute/data-institute-2026/refs/heads/main/assets/open-refine.jpg"></a>
+<a href="https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/analysis-one-var-2026.pdf"><img width="300" src="https://raw.githubusercontent.com/cjddatainstitute/data-institute-2026/refs/heads/main/assets/one-var.jpg"></a>
 
 ## Day 3
 Wednesday, July 8
 
-<a href="https://propublica.s3.amazonaws.com/data-institute/Data%20Institute%20Tabula.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/data-institute-tabula.png"></a>
-<a href="https://propublica.s3.amazonaws.com/data-institute/2024%20Analysis-grab-bag.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/data-analysis-grab-bag.png"></a>
+<a href="https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/tabula-2026.pdf"><img width="300" src="https://raw.githubusercontent.com/cjddatainstitute/data-institute-2026/refs/heads/main/assets/tabula.jpg"></a>
+<a href="https://go.umd.edu/ire25-ai"><img width="300" src="https://raw.githubusercontent.com/cjddatainstitute/data-institute-2026/refs/heads/main/assets/ai-tools.jpg"></a>
+<a href="https://propublica.s3.amazonaws.com/data-institute/2024%20Analysis-grab-bag.pdf"><img width="300" src="https://raw.githubusercontent.com/cjddatainstitute/data-institute-2026/refs/heads/main/assets/data-analysis-grab-bag.jpg"></a>
 
 ## Day 4
 Thursday, July 9
