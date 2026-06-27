@@ -69,7 +69,7 @@ Wednesday, July 8
 
 <a href="https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/tabula-2026.pdf"><img width="300" src="https://raw.githubusercontent.com/cjddatainstitute/data-institute-2026/refs/heads/main/assets/tabula.jpg"></a>
 <a href="https://go.umd.edu/ire25-ai"><img width="300" src="https://raw.githubusercontent.com/cjddatainstitute/data-institute-2026/refs/heads/main/assets/ai-tools.jpg"></a>
-<a href="https://propublica.s3.amazonaws.com/data-institute/2024%20Analysis-grab-bag.pdf"><img width="300" src="https://raw.githubusercontent.com/cjddatainstitute/data-institute-2026/refs/heads/main/assets/data-analysis-grab-bag.jpg"></a>
+<a href="https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/analysis-grab-bag.pdf"><img width="300" src="https://raw.githubusercontent.com/cjddatainstitute/data-institute-2026/refs/heads/main/assets/data-analysis-grab-bag.jpg"></a>
 
 ## Day 4
 Thursday, July 9
