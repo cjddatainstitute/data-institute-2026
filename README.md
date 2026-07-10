@@ -71,7 +71,6 @@ Wednesday, July 8
 <a href="https://go.umd.edu/ire25-ai"><img width="300" src="https://raw.githubusercontent.com/cjddatainstitute/data-institute-2026/refs/heads/main/assets/ai-tools.jpg"></a>
 <a href="https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/analysis-grab-bag.pdf"><img width="300" src="https://raw.githubusercontent.com/cjddatainstitute/data-institute-2026/refs/heads/main/assets/data-analysis-grab-bag.jpg"></a>
 
-<p>Don't be afraid to Google code references you can't remember from class. <a href="https://www.w3schools.com/html/default.asp">Here's a useful link of web language tutorials.</a></p>
 
 ## Day 4
 Thursday, July 9
@@ -80,55 +79,26 @@ Thursday, July 9
 
 <a href="https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/Day%204_HTML_CSS_Session.pdf"><img width="300" src="https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/Day%204_HTML_CSS_Session_thumbnail.png"></a>
 
+<p>Don't be afraid to Google code references you can't remember from class. <a href="https://www.w3schools.com/html/default.asp">Here's a useful link of web language tutorials.</a></p>
+
+Slide decks from previous Data Institutes on this topic:
+<h1>Intro to Code</h1>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/intro-to-code.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-code.jpg"></a>
+
+
+
+<h1>How Websites Work</h1>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.jpg"></a>
+
+<h1>HTML</h1>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/html.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/html.jpg"></a>
+
 
 ## Day 5
 Friday, July 10
 
-### Intro to Code
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/intro-to-code.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-code.jpg"></a>
-
-**In-Class Demos**
-- What coding languages have you heard of?
-- Using the web inspector
-
-### How Websites Work
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.jpg"></a>
-
-### HTML
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/html.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/html.jpg"></a>
-
-**In-Class Demos**
-- How to create your first HTML file
-- Shortcut to the basic HTML template
-- How to use:
-  - `<h1>`
-  - `<h2>`
-  - `<h3>`
-  - `<p>`
-- Let's look up together:
-  - `<img>`
-  - `<a>`
-- Can you figure out:
-  - How do you make a bulleted list?
-
-**Exercises**
-<ul>
-  <li>Can you fix this <a href="https://codepen.io/sisiwei/pen/PNvaeB?editors=1000">broken code</a>? </li>
-</ul>
-
-### Basic CSS
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/css.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/css.jpg"></a>
-
-**In-Class Demos**
-
-- How to create your first CSS file
-- Shortcut to linking to your CSS file
-- How CSS styles work
-
-### Optional Homework
-Copy and paste <a href="https://codepen.io/sisiwei/pen/KzLezJ?editors=1000">this code</a> and follow the instructions inside to format the page.
-
 ### Intro to Design
+
 
 <a href="https://lenagroeger.com/design_workshop/data-institute-2024#/"><img width="500" src="https://static.propublica.org/projects/datainstitute/intro-to-design.png"></a>
 
