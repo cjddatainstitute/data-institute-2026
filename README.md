@@ -120,23 +120,6 @@ Friday, July 10
 ## Day 6
 Monday, July 13
 
-### Web Scraping, Continued
-
-**In-Class Demos**
-- Even more web scraping!
-
-**Homework**
-
-* **Continue thinking about your presentation** - Some starter thoughts:
-	* General: What did you learn? What can you do now that you could not do 2 weeks ago? What were the biggest challenges/setbacks/frustrations you faced? The biggest surprises/succeses/most awesome things you accomplished?
-	* What would you like to present? a portfolio, a dataset you analyzed, a data visualization you created? What are you proud of? What are the next steps you want to take? What are your ultimate goals for your work with data, design and/or code?
- 		* If you would like to make a portfolio, [here's a handy guide from Lena](http://lenagroeger.com/makeawebsite/)! 
-
-
-
-## Day 7
-Tuesday, July 14
-
 ### Web Scraping + Fundamentals of Programming
 **In-Class Demos**
 <ul>
@@ -164,6 +147,23 @@ We'll do the first two together, and you'll do the rest on your own.
   <li>Start thinking what you'd like to present on Friday (we'll have class time to work on it on Thursday).</li>
   <li>See if you can write yourself any other functions. It'll help you gear up for tomorrow.</li>
 </ul>
+
+
+## Day 7
+Tuesday, July 14
+
+### Web Scraping, Continued
+
+**In-Class Demos**
+- Even more web scraping!
+
+**Homework**
+
+* **Continue thinking about your presentation** - Some starter thoughts:
+	* General: What did you learn? What can you do now that you could not do 2 weeks ago? What were the biggest challenges/setbacks/frustrations you faced? The biggest surprises/succeses/most awesome things you accomplished?
+	* What would you like to present? a portfolio, a dataset you analyzed, a data visualization you created? What are you proud of? What are the next steps you want to take? What are your ultimate goals for your work with data, design and/or code?
+ 		* If you would like to make a portfolio, [here's a handy guide from Lena](http://lenagroeger.com/makeawebsite/)! 
+
 
 ## Day 8
 Wednesday, July 15
