@@ -200,21 +200,10 @@ Wednesday, July 15
 ## Day 9
 Thursday, July 16
 
-### Field trip day!
+### Free Day!
 
-In the morning, we'll meet in our usual workspace at 9:30 a.m. for some open work time. We can talk about projects you're in the middle of, and strategies to keep learning after the Data Institute. Around 11:15 a.m., we'll break so you can drop off your stuff at the dorm before we head out for lunch and some discussion.
+Use this day to prepare for tomorrow's show and tell, explore DC, or catch up on some work or personal things. We will not meet at Howard today so meals will be on your own. 
 
-Today we'll get to visit with the Investigative Reporting Workshop on the campus of American University. 
-
-* **When:** Thursday, July 16, at 12:30pm
-* **Where:** [American University, McKinley Building (School of Communication), Room 101](https://maps.app.goo.gl/4RkW7u8mB62da5ScA)
-
-At IRW, we'll have lunch and a chance to chat with Wesley Lowery, Aarushi Sahejpal, and some investigative fellows who are there for the summer. We'll wrap up by mid-afternoon and then you're free to explore DC on your own.
-
-Please coordinate with each other on transit! The McKinley Building is on the corner of American University's campus quad right next to the library. There is a prominent clock in front of the library. A couple transit notes:
-
-* If you take public transit, there's a free shuttle bus to campus from the [Tenleytown Metro Stop](https://maps.app.goo.gl/XhDbYdB6U6FsqZ5p7). Exit on the east side of Wisconsin Avenue; the bus stop is a few yards from the escalator exit at 40th and Albemarle (by the Wawa). Shuttles run on a continuous loop, and the ride to campus is about 5 minutes. You don’t need any special pass to ride. Exit at Kerwin Hall just after Ward Circle.
-* Ride-shares and cabs will usually drop passengers at one of two spots on campus: the intersection of Nebraska Avenue and New Mexico (easiest), or entering campus from Massachusetts Ave and letting people out on Lydecker Road.
 
 ## Day 10
 Friday, July 17
