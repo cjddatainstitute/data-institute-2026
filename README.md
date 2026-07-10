@@ -74,15 +74,7 @@ Wednesday, July 8
 ## Day 4
 Thursday, July 9
 
-### Visualizing Data, Charts and Maps
-
-<a href="https://docs.google.com/presentation/d/17euyzEe1WQMfu061vZhZg-OopQG0pdB2WgQAhry1v9Y/edit"><img width="500" src="https://github.com/cjddatainstitute/data-institute-2024/blob/main/assets/day-4-thumbnail.png"></a>
-
-Intro to visualizing data
-- [Creating your first chart](https://academy.datawrapper.de/article/245-how-to-create-your-first-datawrapper-chart)
-- [Creating your first map](https://academy.datawrapper.de/article/268-how-to-create-your-first-choropleth-map)
-  - [Florida county unemployment](https://docs.google.com/spreadsheets/d/1m2CevE363ZqqYHSBpB8nYeKReX52TdVkJ_eXZCTG_7k/edit#gid=266177519)
-- [More resources, reading and inspiration](https://docs.google.com/document/d/1MNRiSy0wQapCfu4PjSlvRobXIR4taB47gtr5v2g8uBo/edit?usp=sharing)
+###Intro to HTML, CSS, and incorporating it in the newsroom
 
 ## Day 5
 Friday, July 10
@@ -131,9 +123,6 @@ Friday, July 10
 ### Optional Homework
 Copy and paste <a href="https://codepen.io/sisiwei/pen/KzLezJ?editors=1000">this code</a> and follow the instructions inside to format the page.
 
-## Day 6
-Monday, July 13
-
 ### Intro to Design
 
 <a href="https://lenagroeger.com/design_workshop/data-institute-2024#/"><img width="500" src="https://static.propublica.org/projects/datainstitute/intro-to-design.png"></a>
@@ -149,6 +138,25 @@ Monday, July 13
 
 <a href="https://docs.google.com/presentation/d/1jgz0mG72wxiEtLJzhbiTLuocIPZF8jSYtIvWfDTE2e4/edit#slide=id.g1d0b3f77a7_0_0"><img width="500" src="https://static.propublica.org/projects/datainstitute/design_concepts_your_turn.png"></a>
  -->
+
+
+
+
+## Day 6
+Monday, July 13
+
+### Web Scraping, Continued
+
+**In-Class Demos**
+- Even more web scraping!
+
+**Homework**
+
+* **Continue thinking about your presentation** - Some starter thoughts:
+	* General: What did you learn? What can you do now that you could not do 2 weeks ago? What were the biggest challenges/setbacks/frustrations you faced? The biggest surprises/succeses/most awesome things you accomplished?
+	* What would you like to present? a portfolio, a dataset you analyzed, a data visualization you created? What are you proud of? What are the next steps you want to take? What are your ultimate goals for your work with data, design and/or code?
+ 		* If you would like to make a portfolio, [here's a handy guide from Lena](http://lenagroeger.com/makeawebsite/)! 
+
 
 
 ## Day 7
@@ -185,17 +193,15 @@ We'll do the first two together, and you'll do the rest on your own.
 ## Day 8
 Wednesday, July 15
 
-### Web Scraping, Continued
+### Visualizing Data, Charts and Maps
 
-**In-Class Demos**
-- Even more web scraping!
+<a href="https://docs.google.com/presentation/d/17euyzEe1WQMfu061vZhZg-OopQG0pdB2WgQAhry1v9Y/edit"><img width="500" src="https://github.com/cjddatainstitute/data-institute-2024/blob/main/assets/day-4-thumbnail.png"></a>
 
-**Homework**
-
-* **Continue thinking about your presentation** - Some starter thoughts:
-	* General: What did you learn? What can you do now that you could not do 2 weeks ago? What were the biggest challenges/setbacks/frustrations you faced? The biggest surprises/succeses/most awesome things you accomplished?
-	* What would you like to present? a portfolio, a dataset you analyzed, a data visualization you created? What are you proud of? What are the next steps you want to take? What are your ultimate goals for your work with data, design and/or code?
- 		* If you would like to make a portfolio, [here's a handy guide from Lena](http://lenagroeger.com/makeawebsite/)! 
+Intro to visualizing data
+- [Creating your first chart](https://academy.datawrapper.de/article/245-how-to-create-your-first-datawrapper-chart)
+- [Creating your first map](https://academy.datawrapper.de/article/268-how-to-create-your-first-choropleth-map)
+  - [Florida county unemployment](https://docs.google.com/spreadsheets/d/1m2CevE363ZqqYHSBpB8nYeKReX52TdVkJ_eXZCTG_7k/edit#gid=266177519)
+- [More resources, reading and inspiration](https://docs.google.com/document/d/1MNRiSy0wQapCfu4PjSlvRobXIR4taB47gtr5v2g8uBo/edit?usp=sharing)
 
 ## Day 9
 Thursday, July 16
