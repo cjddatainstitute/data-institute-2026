@@ -82,15 +82,15 @@ Thursday, July 9
 <p>Don't be afraid to Google code references you can't remember from class. <a href="https://www.w3schools.com/html/default.asp">Here's a useful link of web language tutorials.</a></p>
 
 Slide decks from previous Data Institutes on this topic:
-<h1>Intro to Code</h1>
+<h2>Intro to Code</h2>
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/intro-to-code.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-code.jpg"></a>
 
 
 
-<h1>How Websites Work</h1>
+<h2>How Websites Work</h2>
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.jpg"></a>
 
-<h1>HTML</h1>
+<h2>HTML</h2>
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/html.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/html.jpg"></a>
 
 
