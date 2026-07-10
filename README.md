@@ -74,7 +74,9 @@ Wednesday, July 8
 ## Day 4
 Thursday, July 9
 
-###Intro to HTML, CSS, and incorporating it in the newsroom
+## Intro to HTML, CSS, and incorporating it in the newsroom
+<a href="https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/Day%204_HTML_CSS_Session.pptx"><img width="300" src="https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/Day%204_HTML_CSS_Session_thumbnail.png></a>
+
 
 ## Day 5
 Friday, July 10
