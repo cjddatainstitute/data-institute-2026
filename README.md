@@ -77,7 +77,7 @@ Thursday, July 9
 
 ## Intro to HTML, CSS, and Incorporating it in the Newsroom
 
-<a href="https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/Day%204_HTML_CSS_Session.pdf"><img width="300" height="500" src="https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/Day%204_HTML_CSS_Session_thumbnail.png"></a>
+<a href="https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/Day%204_HTML_CSS_Session.pdf"><img height="500" width="300" src="https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/Day%204_HTML_CSS_Session_thumbnail.png"></a>
 
 <p>Don't be afraid to Google code references you can't remember from class. <a href="https://www.w3schools.com/html/default.asp">Here's a useful link of web language tutorials.</a></p>
 
