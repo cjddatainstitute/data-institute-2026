@@ -14,15 +14,15 @@ Week 1:
 - [Day 1: Intro to Data Journalism, Spreadsheets, Best Practices](#day-1)
 - [Day 2: Evaluating Data, Open Refine, Analyzing One Variable](#day-2)
 - [Day 3: Tabula, AI, and Putting It All Together](#day-3)
-- [Day 4: Intro to HTML, CSS, and incorporating it in the newsroom](#day-4)
-- [Day 5: Intro to Code, How Websites Work, HTML, CSS](#day-5)
+- [Day 4: Intro to HTML, CSS, and Incorporating it in the Newsroom](#day-4)
+- [Day 5: Intro to Design, How Websites Work, HTML, CSS](#day-5)
 
 
 Week 2:
-- [Day 6: Intro to Design, Make Your Own Website](#day-6)
-- [Day 7: Web Scraping, Fundamentals of Programming](#day-7)
-- [Day 8: Even More Web Scraping](#day-8)
-- [Day 9: Continuing Learning / Field Trip](#day-9)
+- [Day 6: Web Scraping, Fundamentals of Programming](#day-6)
+- [Day 7: Even More Webscraping](#day-7)
+- [Day 8: Visualizing Data, Charts and Maps](#day-8)
+- [Day 9: Free Day](#day-9)
 - [Day 10: Celebration: Final Show & Tell](#day-10)
 
 ## Welcome Reception & Install Party
