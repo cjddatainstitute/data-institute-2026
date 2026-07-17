@@ -173,6 +173,8 @@ Intro to visualizing data
 - [Creating your first map](https://academy.datawrapper.de/article/268-how-to-create-your-first-choropleth-map)
   - [Florida county unemployment](https://docs.google.com/spreadsheets/d/1m2CevE363ZqqYHSBpB8nYeKReX52TdVkJ_eXZCTG_7k/edit#gid=266177519)
 - [More resources, reading and inspiration](https://docs.google.com/document/d/1MNRiSy0wQapCfu4PjSlvRobXIR4taB47gtr5v2g8uBo/edit?usp=sharing)
+- [Visual Vocabulary]
+  (https://github.com/Financial-Times/chart-doctor/blob/main/visual-vocabulary/Visual-vocabulary-en.pdf)
 
 ## Day 9
 Thursday, July 16
