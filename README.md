@@ -166,7 +166,7 @@ Wednesday, July 15
 
 ### Visualizing Data, Charts and Maps
 
-<a href="(https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/Illustrating%20Information_BrittanyMayes.pptx.pdf)"><img width="500" src="https://github.com/cjddatainstitute/data-institute-2024/blob/main/assets/day-4-thumbnail.png"></a>
+<a href="(https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/Illustrating%20Information_BrittanyMayes.pptx.pdf)"><img width="500" src="https://github.com/cjddatainstitute/data-institute-2026/blob/main/assets/Illustrating%20Information_BrittanyMayes_thumbnail.pngg"></a>
 
 Intro to visualizing data
 - [Creating your first chart](https://academy.datawrapper.de/article/245-how-to-create-your-first-datawrapper-chart)
